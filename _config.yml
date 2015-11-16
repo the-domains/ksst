@@ -1,0 +1,12 @@
+layout_spectrum: 0.2102098
+color:
+  saturation: 0.6236559
+  lightness: 1
+  brandStrength: 1
+  brandColors:
+    - '#BEBEBC'
+    - '#28426E'
+    - '#416492'
+  rhythmicContrast: 0.1463266
+typography_spectrum: 0.8422939
+name: ksst
