@@ -1,12 +1,24 @@
-layout_spectrum: 0.2102098
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.8422939
 color:
   saturation: 0.6236559
-  lightness: 1
   brandStrength: 1
+  rhythmicContrast: 0.1463266
   brandColors:
     - '#BEBEBC'
     - '#28426E'
     - '#416492'
-  rhythmicContrast: 0.1463266
-typography_spectrum: 0.8422939
+  lightness: 1
+layout_spectrum: 0.3046595
 name: ksst
